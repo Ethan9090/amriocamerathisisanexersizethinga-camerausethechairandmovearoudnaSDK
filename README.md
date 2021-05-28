@@ -1,0 +1,2 @@
+# amriocamerathisisanexersizethinga-camerausethechairandmovearoudnaSDK
+bgkhgvhvfghkllgikcugxudftgyltifdkfyi
