@@ -1,0 +1,16 @@
+.foot{
+    background-color: grey;
+    border-top: darkslategray 10px solid;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+#status{
+    margin: 30px;
+    font-size: 50px;
+}
+
+#top{
+    font-size: 60px;
+}
